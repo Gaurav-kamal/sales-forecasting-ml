@@ -21,7 +21,7 @@ The dataset consists of historical sales data, including product details, season
 Installation
 
 # Clone the repository
-git clone https://github.com/yourusername/sales-forecasting-ml.git
+git clone https://github.com/gaurav-kamal/sales-forecasting-ml.git
 cd sales-forecasting-ml
 
 # Install dependencies
